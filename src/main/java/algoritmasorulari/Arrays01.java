@@ -2,7 +2,7 @@ package algoritmasorulari;
 
 import java.util.Scanner;
 
-public class Arrays {
+public class Arrays01 {
 
 public static void main(String[] args) {
     /*
